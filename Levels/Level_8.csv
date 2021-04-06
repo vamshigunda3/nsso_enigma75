@@ -1,0 +1,25 @@
+Headers,Length ,Encode ,Field of training,Duration of training,Type of training,Source of funding the training
+Common-ID,34,No,Aerospace and aviation,Less than 3 months,On the job,Funded from the earning of the student
+Level,2,No,"Agriculture, non-crop based agriculture, food processing",3 months or more but less than 6 months,Other than the job,Funded by other household members
+Filler,3,No,"Allied manufacturing- gems and jewellery, leather, rubber, furniture and fittings,printing",6 months or more but less than 12 months,Full time,Funded by erstwhile household members
+"Person serial no. 
+(as in col. 1, block 4)",2,No,Artisan/craftsman/handicraft/creative arts and cottage based production,12 months or more but less than 18 months,Part time,Received as gifts from friends/relatives
+"Age (as in col. 5, block 4)",3,No,Automotive,18 months or more but less than 24 months,,Scholarships from educational institution
+Field of training,2,Yes,Beauty and wellness,24 months or more,,Scholarships from government
+Duration of training,1,Yes,"Chemical engineering, hydrocarbons, chemicals and petrochemicals",,,Scholarships from charitable and other organisaitons
+Type of training,1,Yes,"Civil engineering- construction, plumbing, paints and coatings",,,Educational loan
+Source of funding the training,2,Yes,"Electrical, power and electronics",,,None
+Whether the training completed during last 365 days,1,No,Healthcare and life Sciences,,,Other loan
+Blank,0,No,Hospitality and tourism,,,None
+NSS,3,No,"Iron and steel, mining, earthmoving and infra building",,,None
+NSc,3,No,"Information technology-information 
+technology enabled services (IT-ITES)",,,None
+MULT,10,No,Logistics,,,None
+,,,"Mechanical engineering-capital goods,strategic manufacturing",,,None
+,,,"Media-journalism, mass communication and entertainmen",,,None
+,,,Office and business related work,,,None
+,,,Security,,,None
+,,,Telecom,,,Others
+,,,"Textiles and handlooms, apparels",,,
+,,,"Work related to childcare, nutrition, pre-school and crèche",,,
+,,,Others,,,

@@ -1,0 +1,36 @@
+Headers,Length,Encode,"
+
+
+
+
+
+
+Household type",Religion,Social group,Distance to PLC,Distance to ULC,Distance to SLC,Computer,Internet facility,Any erstwhile household member of age 3-35 years is currently attending education,Whether staying in students' hostel
+Common-ID,34,No,,Hinduism,Scheduled Tribe,0 to 1 km,0 to 1 km,0 to 1 km,Yes,Yes,Yes,Yes
+Level,2,No,,Islam,Scheduled Caste,1 to 2 km,1 to 2 km,1 to 2 km,No,No,No,No
+Filler,5,No,,Christianity,Other Backward Class,2 to 3 km,2 to 3 km,2 to 3 km,,,,
+Household size,2,No,,Sikhism,,3 to 4 km,3 to 4 km,3 to 4 km,,,,
+NIC-2008 five digit code,5,No,,Jainism,,4 to 5 km,4 to 5 km,4 to 5 km,,,,
+NCO-2004 three digit code,3,No,,Buddhism,,,,,,,,
+Household type,1,No,,Zoroastrianism,,,,,,,,
+Religion,1,Yes,,,,,,,,,,
+Social group,1,Yes,,Others,Others,,,,,,,
+Distance to PLC,1,Yes,,,,,,,,,,
+Distance to ULC,1,Yes,,,,,,,,,,
+Distance to SLC,1,Yes,,,,,,,,,,
+Computer,1,Yes,,,,,,,,,,
+Internet facility,1,Yes,,,,,,,,,,
+Any erstwhile household member of age 3-35 years is currently attending education,1,Yes,,,,,,,,,,
+Whether staying in students' hostel,1,Yes,,,,,,,,,,
+"For code 1 in item 13, location of the parent household: State/ UT code",2,No,,,,,,,,,,
+"For code 1 in item 13, location of the parent household: District code",2,No,,,,,,,,,,
+"For code 1 in item 13, location of the parent household: Sector",1,No,,,,,,,,,,
+Household's usual consumer expenditure (Rs.),8,No,,,,,,,,,,
+Blank,0,No,,,,,,,,,,
+NSS,3,No,,,,,,,,,,
+NSc,3,No,,,,,,,,,,
+MULT,10,No,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,, ,,,,,,,,,

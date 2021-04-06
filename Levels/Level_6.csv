@@ -1,0 +1,32 @@
+Headers,Length,Encode,First major source of funding current basic course ,Second major source of funding current basic course ,Whether worked for 30 days or more,Status of the economic activity,Whether seeking/ was available for work
+Common-ID,34,No,"Funded from the earning of the 
+student","Funded from the earning of the 
+student",Yes,Self-employed,Yes
+Level,2,No,Funded by other household members,Funded by other household members,No,"Regular wage/
+salaried person",No
+Filler,3,No,"Funded by erstwhile household
+ members","Funded by erstwhile household
+ members",,Casual labour,
+"Person serial no. (as in item 1, block 5)",2,No,Received as gifts from friends/relatives,Received as gifts from friends/relatives,,,
+"Age (as in item 2, block 5)",3,No,"Scholarships from educational 
+institution","Scholarships from educational 
+institution",,,
+Course fee (Rs.),8,No,Scholarships from government,Scholarships from government,,,
+"Books, stationery and uniform (Rs.)",8,No,"Scholarships from charitable and 
+other organisations","Scholarships from charitable and 
+other organisations",,,
+Transport (Rs.),8,No,Educational loan,Educational loan,,,
+Private coaching (Rs.),8,No,None ,None ,,,
+Other expenditure (Rs.),8,No,Other loan,Other loan,,,
+Total expenditure (Rs.):,8,No,,,,,
+First major source of funding current basic course ,2,Yes,,,,,
+Second major source of funding current basic course ,2,Yes,,,,,
+Expenditure on education on courses other than basic course(Rs.),8,No,,,,,
+Expenditure on preparation for higher/additional studies(Rs.),8,No,,,,,
+Whether worked for 30 days or more,1,Yes,,,,,
+Status of the economic activity,1,Yes,,,,,
+Whether seeking/ was available for work,1,Yes,,,,,
+Blank,11,No,Others,Others,,,
+NSS,3,No,,,,,
+NSc,3,No,,,,,
+MULT,10,No,,,,,

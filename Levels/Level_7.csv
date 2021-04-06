@@ -1,0 +1,26 @@
+Headers,Length,Encode,Whether ever attended,Level of last enrolment,Type of education of the course last attended,Whether completed the level last enrolled, Class completed if the last attended was class XII or below,Type of institution last attended,Whether preparing/ prepared for higher/ additional studies during last 365 days,Major reason for never enrolled or currently not attending
+Common-ID,34,No,Yes,,General,Yes,Class 1,Government,Yes,Not interested in education
+Level,2,No,No,,Technical/professional,No,Class 2,Private aided,No,Financial constraints
+Filler,3,No,,NFEC,,,Class 3,Private unaided,,Engaged in domestic activities
+"Person serial no. (as in col. 1, block 4)",2,No,,TLC/AEC,,,Class 4,Not known,,Engaged in economic activities
+"Age (as in col. 5, block 4)",3,No,,Other non-formal,,,Class 5,,,School is far off
+Whether ever attended,1,Yes,,Pre-primary,,,Class 6,,,Timmings of education institution not suitable
+Age at first enrollment in School (years),2,No,,Primary,,,Class 7,,,Language of instruction used unfamiliar
+Level of last enrolment,2,Yes,,"Upper
+primary/middle",,,Class 8,,,Inadequate number of teachers
+Type of education of the course last attended,1,Yes,,None ,,,Class 9,,,Quality of teachers not satisfactory
+Whether completed the level last enrolled,1,Yes,,Secondary,,,Class 10,,,"Route to education instituition not 
+safe"
+ Class completed if the last attended was class XII or below,2,Yes,,Higher secondary,,,Class 11,,,Others
+Age when last attended/ last enrolled (years),2,No,,"Diploma /certificate course (up to
+secondary)",,,Class 12,,,No tradition in the community
+Type of institution last attended,1,Yes,,"Diploma/certificate course (higher 
+secondary)",,,,,,Unable to cope with studies/failure in studies
+Whether preparing/ prepared for higher/ additional studies during last 365 days,1,Yes,,"Diploma/ certificate course 
+(graduation and above )",,,,,,Unfriendly atmosphere at School
+Expenditure incurred on preparation for higher/ additional studies(Rs.),8,No,,Graduate,,,,,,Completed desired level/class
+Major reason for never enrolled or currently not attending,2,Yes,,Postgraduate and above,,,,,,Preparation for competitive examination
+Blank,0,No,,,,,,,,Non-availability of female teacher
+NSS,3,No,,,,,,,,Nonavailability of girls’ toilet
+NSc,3,No,,,,,,,,None
+MULT,10,No,,,,,,,,Marriage

@@ -1,0 +1,41 @@
+Headers,Length,Encode,Present place of residence: State/UT code,Present place of residence: District code,Level of current enrolment in the basic course,Any expenditure Incurred/to be incurred by the HHD during the current academic year for the member
+Common-ID,34,No,Jammu & Kashmir,,None,Yes
+Level,2,No,Himachal Pradesh,,None,No
+Filler,3,No,Punjab,,NFEC,
+Person serial no.,2,No,Chandigarh,,TLC/AEC,
+Gender,1,No,Uttarakhand,,Other Non - Formal,
+Age(in years),3,No,Haryana,,"Below Primary ( Nursery/
+kindergarden- Preparatory Levels )",
+Present place of residence: State/UT code,2,Yes,Delhi,,Primary ( Class 1-5),
+Present place of residence: District code,2,No,Rajasthan,,Upper Primary/middle,
+Present place of residence: Sector,1,No,Uttar Pradesh,,,
+Type of residence,1,No,Bihar,,Secondary,
+Level of current enrolment in the basic course,2,Yes,Sikkim,,Higher Secondary,
+Any expenditure Incurred/to be incurred by the HHD during the current academic year for the member,1,Yes,Arunachal Pradesh,,"Diploma/certificate Course( Upto 
+secondary )",
+Expenditure incurred/to be incurred(Rs.),8,No,Nagaland,,"Diploma /certificate 
+course (higher Secondary)",
+Blank,0,No,Manipur,,"Diploma/certificate Course
+(graduation And Above)",
+NSS,3,No,Mizoram,,Graduate,
+NSc,3,No,Tripura,,Post Graduate And Above,
+MULT,10,No,Meghalaya,,,
+,,,Assam,,,
+,,,West Bengal,,,
+,,,Jharkhand,,,
+,,,Odhisha,,,
+,,,Chhattisgarh,,,
+,,,Madhya Pradesh,,,
+,,,Gujrat,,,
+,,,Daman and Diu,,,
+,,,Dadar and Nagar Haveli,,,
+,,,Maharashtra,,,
+,,,Andhra Pradesh,,,
+,,,Karnataka,,,
+,,,Goa,,,
+,,,Lakshadweep,,,
+,,,Kerala,,,
+,,,Tamil Nadu,,,
+,,,Puducherry,,,
+,,,A & N Islands,,,
+,,,Telangana,,,
