@@ -4,7 +4,7 @@
 # In[24]:
 
 # In[26]:
-import nsso_enigma75 as ne
+from nsso_enigma import nsso_enigma75 as ne
 
 D1 = ("./Data/R75252L01.TXT")
 L1 = ("./Levels/Level_1.csv")
